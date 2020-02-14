@@ -30,14 +30,30 @@ Copy and paste these prompts into a `Google Doc`. Steps on how to create a googl
 Describe the conversations you had this sprint with your product owner(s) and team.
 
 - Describe the product and features you plan to deliver.
+*   Ours is an app built to store data regarding business operations and give 
+    administrators and technicians to store records of past work.
 - How did these conversations determine the features you will deliver during Labs?
+*   Our talk with the Stakeholder, Scott helped rectify the what 
+    what direction we needed to take in sectioning the project into
+    different facets that separate kinds of users will interact with.
 - How did your discussions change the way you viewed the product?
+*   Our preconceived ideas for the website were left changed in some
+    areas yet different in others. The design in terms of a simplistic
+    and minimalist aesthetic were agreed upon but functionality outside
+    of what has been presented prior hasn't seen much vivid thought. 
+    None the less, our understanding of what we need to accomplish is 
+    far more unified thanks to these meetings.
+    
 
 ### Prompt 2
 
 Describe the technical or design discussions that shaped the long-term product vision.
 
 - **For data scientists and engineers:** Describe the technologies that you will use to build this product. Why do they fit the product vision?
+*   We will be using React due to it's importance in the prior implementation of the project. We will also use newer Technology to assist us 
+    since the software already installed in the app is unlike what we have used before. I.E: Progressive Web Apps for it's use in mobile design
+    and Firebase for backend.
+    
 - **For UX designers:** Describe the questions that you are asking during user research. Why have you selected these questions to ask? What is the problem your team is trying to solve?
 
 You are expected to be able to answer all these questions. Your responses contribute to your Journal Entry grade. Skipping this section _will_ prevent you from passing this challenge.
